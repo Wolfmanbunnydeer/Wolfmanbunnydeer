@@ -75,7 +75,7 @@ index(1).css"/>
   
               <br><div class="column"><div align ="center"><h6><b>Magic Fairy Kingdom Palace</b></h6></div>
          <div align ="right"><a href="https://codepen.io/cmc2392zootopia/pen/dyeZpWb"  class="user-avatar">
-           <a href='https://postimg.cc/ts6qztb0' target='_blank'><img src='https://i.postimg.cc/sg6Msw02/palacechristmasjuglrxxq222taxxdssswerbs8dcglinktr4ee3.jpg' border='0' alt='palacechristmasjuglrxxq222taxxdssswerbs8dcglinktr4ee3'  />
+           <a href='https://postimg.cc/ts6qztb0' target='_blank'><img src='https://i.postimg.cc/sg6Msw02/palacechristmasjuglrxxq222taxxdssswerbs8dcglinktr4ee3.jpg' border='0' alt='palacechristmasjuglrxxq222taxxdssswerbs8dcglinktr4ee3'/>
             </a></a></div></div>
 </div></br>
 
